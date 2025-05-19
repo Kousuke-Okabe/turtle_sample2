@@ -1,5 +1,5 @@
 turtle_control:
   ros__parameters:
     Kp: 0.1
-    ref_x: 3.0
-    ref_y: 3.0
+    ref_x: 7.0
+    ref_y: 5.0
